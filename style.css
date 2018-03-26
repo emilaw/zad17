@@ -1,0 +1,14 @@
+h1{
+    color: blue;
+    text-align: center;
+    background-color: white;
+    font-variant-position: super;
+}
+p{
+    text-align: center;  
+    color: black;
+}
+
+div{
+    position: relative; margin-top: 200px;
+}

@@ -8,6 +8,9 @@ p{
     text-align: center;  
     color: black;
 }
+.klasa1{
+    color: red;
+}
 
 div{
     position: relative; margin-top: 200px;
